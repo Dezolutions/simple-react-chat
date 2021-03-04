@@ -1,0 +1,19 @@
+.login__block{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 100%;
+}
+.login-title{
+  font-size: 30px;
+  color: rgb(0, 175, 9);
+}
+.login__block-inner{
+  padding: 40px 0;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgb(226, 247, 255);
+}
